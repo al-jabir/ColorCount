@@ -1,0 +1,35 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+} */
+.container .main {
+  display: flex;
+  margin: 0 auto;
+  width: 100;
+  align-items: center;
+  justify-content: center;
+}
+button {
+  width: 300px;
+  height: 200px;
+  margin: 2px;
+}
+#red {
+  background-color: red;
+}
+#lime {
+  background-color: lime;
+}
+#purple {
+  background-color: purple;
+}
+#clear {
+  display: block;
+  margin: 10px auto;
+  text-align: center;
+  width: 100px;
+  height: 50px;
+}
